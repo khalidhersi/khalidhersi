@@ -1,15 +1,15 @@
 <h1 align="center">
 Welcome To My Page 👋👋👋👋👋
   </h1>  
-  
-  <br>
+    <br>
 
 <div align="center">
-<h3 align="center" >
+<h1 align="center" >
 I'm Khalid,
-Junior full stack developer 
-at _nology 
-  </h3>
+  <br>
+    <br>
+Junior full stack developer at _nology 
+  </h1>
   
  <br>
    
