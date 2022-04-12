@@ -1,6 +1,6 @@
-![banner](https://user-images.githubusercontent.com/84135155/162960201-49f2a60f-b6ec-44ee-bb26-bb0c3842f627.png)
+<!-- ![banner](https://user-images.githubusercontent.com/84135155/162960201-49f2a60f-b6ec-44ee-bb26-bb0c3842f627.png) -->
 
-<!-- ![banner2-better-cropped](https://user-images.githubusercontent.com/84135155/162959132-059c6acf-1616-47ed-869d-6ec9eb49ad78.png) -->
+![banner2-better-cropped](https://user-images.githubusercontent.com/84135155/162959132-059c6acf-1616-47ed-869d-6ec9eb49ad78.png)
 
 <h1 align="center">
 Welcome To My Page 👋👋👋👋👋
