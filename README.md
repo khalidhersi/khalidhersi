@@ -50,10 +50,13 @@ Junior full stack developer at _nology
    <br>
 
 #### Projects I'm most Proud of:
-- VSCodefolio 🏆
-- Iphone Calculator Clone 🖩
+- VSCodefolio 🥇 🏆
+- Dodge-Java 🥈
+- Wordle 🥉
 - Minesweeper 💣
+- Iphone Calculator Clone 🖩
 - Orchestra of the Age of Enlightenment - Client Project 💼
+- Java Console Library Booking System 📚
 - Jay's Quality Contruction Website 🔨
 
   
