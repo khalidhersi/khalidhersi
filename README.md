@@ -14,6 +14,23 @@ I'm Khalid,
     <br>
 Junior full stack developer at _nology 
   </h1>
+     <br>
+   <br>
+   
+<div align="center">
+  <div style="display: flex; align-items: flex-start; justify-content: space-evenly;">
+    <img src="https://github-readme-stats.vercel.app/api?username=khalidhersi&show_icons=true&theme=monokai&bg_color=131313" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidhersi&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>
+  
+  
+<!-- ![Khalid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalidhersi&show_icons=true&theme=monokai&bg_color=131313) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidhersi)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+    
+  
   
  <br>
    
@@ -39,15 +56,6 @@ Junior full stack developer at _nology
 - Orchestra of the Age of Enlightenment - Client Project 💼
 - Jay's Quality Contruction Website 🔨
 
-   <br>
-   <br>
-   
-  
-![Khalid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalidhersi&show_icons=true&theme=nightowl)
-  
-   <br>
-   <br>
-   
   
 ## Feel Free to 🔗 with me on LinkedIn 🎉🎉🎉
 
