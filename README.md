@@ -50,14 +50,15 @@ Junior full stack developer at _nology
    <br>
 
 #### Projects I'm most Proud of:
-- VSCodefolio 🥇 🏆
-- Dodge-Java 🥈
-- Wordle 🥉
-- Minesweeper 💣
-- Iphone Calculator Clone 🖩
-- Orchestra of the Age of Enlightenment - Client Project 💼
-- Java Console Library Booking System 📚
-- Jay's Quality Contruction Website 🔨
+- <a href="https://github.com/khalidhersi/vscodefolio" style="color:#1a0dab;font-size:14px;">VSCodefolio 🥇 🏆</a> 
+- <a href="https://github.com/khalidhersi/dodge-java" title="" style="color:#1a0dab;font-size:14px;" >Dodge-Java 🥈</a>
+- <a href="https://github.com/khalidhersi/wordle" title="" style="color:#1a0dab;font-size:14px;" >Wordle 🥉</a>
+- <a href="https://github.com/khalidhersi/MineSweeper" title="" style="color:#1a0dab;font-size:14px;" >Minesweeper 💣</a>
+- <a href="https://github.com/khalidhersi/Calculator" title="" style="color:#1a0dab;font-size:14px;">Iphone Calculator Clone 🖩</a>
+- <a href="https://github.com/khalidhersi/Vue-Cinema-Clone-React-Java-SpringBoot" title="" style="color:#1a0dab;font-size:14px;">Vue Cinema Fullstack Clone 🎥</a>
+- <a href="https://github.com/nology-tech/oae-event-programme" title="" style="color:#1a0dab;font-size:14px;" >Orchestra of the Age of Enlightenment - Client Project 💼</a>
+- <a href="https://github.com/khalidhersi/Library-Book-Loaning-System-Java" title="" style="color:#1a0dab;font-size:14px;" >Java Console Library Booking System 📚</a>
+- <a href="https://github.com/khalidhersi/JQC-website" title="" style="color:#1a0dab;font-size:14px;" >Jay's Quality Contruction Website 🔨</a>
   
 ## Feel Free to 🔗 with me on LinkedIn 🎉🎉🎉
 
