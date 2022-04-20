@@ -51,7 +51,7 @@ Junior full stack developer at _nology
 
 #### Projects I'm most Proud of:
 - <a href="https://github.com/khalidhersi/vscodefolio" style="color:#1a0dab;font-size:14px;">VSCodefolio 🥇 🏆</a> 
-- <a href="https://github.com/khalidhersi/dodge-java" title="" style="color:#1a0dab;font-size:14px;" >Dodge-Java 🥈</a>
+- <a href="https://github.com/khalidhersi/Dodge--java" title="" style="color:#1a0dab;font-size:14px;" >Dodge-Java 🥈</a>
 - <a href="https://github.com/khalidhersi/wordle" title="" style="color:#1a0dab;font-size:14px;" >Wordle 🥉</a>
 - <a href="https://github.com/khalidhersi/MineSweeper" title="" style="color:#1a0dab;font-size:14px;" >Minesweeper 💣</a>
 - <a href="https://github.com/khalidhersi/Calculator" title="" style="color:#1a0dab;font-size:14px;">Iphone Calculator Clone 🖩</a>
