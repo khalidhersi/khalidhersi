@@ -3,9 +3,9 @@
 ![banner2-better-cropped](https://user-images.githubusercontent.com/84135155/162959132-059c6acf-1616-47ed-869d-6ec9eb49ad78.png)
 
 <h1 align="center">
-Welcome To My Page 👋👋👋👋👋
+Welcome To My Page  👋👋👋👋
   </h1>  
-    <br>
+    
 
 <div align="center">
 <h1 align="center" >
@@ -58,7 +58,6 @@ Junior full stack developer at _nology
 - Orchestra of the Age of Enlightenment - Client Project 💼
 - Java Console Library Booking System 📚
 - Jay's Quality Contruction Website 🔨
-
   
 ## Feel Free to 🔗 with me on LinkedIn 🎉🎉🎉
 
