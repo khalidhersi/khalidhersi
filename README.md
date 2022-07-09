@@ -57,6 +57,7 @@ Junior full stack developer at _nology
 - <a href="https://github.com/khalidhersi/Calculator" title="" style="color:#1a0dab;font-size:14px;">Iphone Calculator Clone 🖩</a>
 - <a href="https://github.com/khalidhersi/Vue-Cinema-Clone-React-Java-SpringBoot" title="" style="color:#1a0dab;font-size:14px;">Vue Cinema Fullstack Clone 🎥</a>
 - <a href="https://github.com/nology-tech/oae-event-programme" title="" style="color:#1a0dab;font-size:14px;" >Orchestra of the Age of Enlightenment - Client Project 💼</a>
+- <a href="https://github.com/khalidhersi/GUI_Secure_Password_Generator" title="" style="color:#1a0dab;font-size:14px;" >Pyhton GUI Secure Password Generator 🔒</a>
 - <a href="https://github.com/khalidhersi/Library-Book-Loaning-System-Java" title="" style="color:#1a0dab;font-size:14px;" >Java Console Library Booking System 📚</a>
 - <a href="https://github.com/khalidhersi/JQC-website" title="" style="color:#1a0dab;font-size:14px;" >Jay's Quality Contruction Website 🔨</a>
   
