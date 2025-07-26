@@ -57,7 +57,7 @@ Senior Full Stack Developer with 4+ years of experience
 - 🔹 [Calculate Funding System](https://github.com/khalidhersi) *(private repo)*  
   React + .NET Core — Nationwide education funding tool
 
-- 🔹 [Quran Memorization NextJS App Fullstack + ACA  🎥]([https://github.com/khalidhersi/Vue-Cinema-Clone-React-Java-SpringBoot](https://github.com/khalidhersi/quran-memorization))  
+- 🔹 [Quran Memorization NextJS App Fullstack + ACA  🎥](https://github.com/khalidhersi/quran-memorization)  
   NextJS + Firebase + Docker + Terrafrom + CICD Github Actibns
 
 - 🔹 [SearchSmarter Website 🌐](https://github.com/khalidhersi) *(freelance)*  
