@@ -1,6 +1,5 @@
 <!-- ![banner](https://user-images.githubusercontent.com/84135155/162960201-49f2a60f-b6ec-44ee-bb26-bb0c3842f627.png) -->
-
-<img width="1604" height="644" alt="Senior DEVOPS Engineer" src="https://github.com/user-attachments/assets/534b595e-2a5a-48c1-99e8-0b34ff54c0b7" />
+<img width="1603" height="644" alt="new github khalid banner" src="https://github.com/user-attachments/assets/b646ff8a-12d9-4d01-9153-544b006ab914" />
 
 <h1 align="center">
 Welcome To My Page 👋👋👋👋
