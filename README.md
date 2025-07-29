@@ -35,19 +35,19 @@ Senior Full Stack Developer with 4+ years of experience
 - 🏛️ **GOVUK - Dept for Education** *(via Cognizant)*  
   Led frontend of a funding system used by 10,000+ UK institutions. Migrated React 16 → 18, improved UX by 20%, and refactored 600+ tests.
 
+- 📿 **Quran Memorization App**  *(Personal Project)*
+- Fullstack app with CI/CD for audio-based memorization, deployed via Terraform to Azure.
+
 - 🛒 **E-commerce Platform** *(Cognizant)*  
   Developed high-traffic Spring Boot + React apps with optimized secure payment flows and improved performance by 15%.
 
-- 🌐 **SearchSmarter (Freelance)**  
+- 🌐 **SearchSmarter** *(Freelance)*  
   Built the first SEO-optimized site for a digital agency, increasing client leads by 200% and boosting visibility significantly.
 
-- 🥋 **Amal Taekwondo Club (Freelance)**  
-  Delivered a full web platform with registration and payment system, reducing admin workload and improving user access.
-
-- 🛠️ **Jay’s Quality Construction (Freelance)**  
+- 🛠️ **Jay’s Quality Construction** *(Freelance)*  
   Designed a modern website with responsive layout and SEO optimization, increasing inquiries by over 400%.
 
-- 🎻 **Orchestra of the Age of Enlightenment (_nology)**  
+- 🎻 **Orchestra of the Age of Enlightenment** *(_nology)*  
   Built accessibility-first React app for elderly users with dark mode, large fonts, and mobile-first UX.
 
 ---
